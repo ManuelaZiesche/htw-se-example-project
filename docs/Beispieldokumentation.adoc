@@ -4,7 +4,8 @@ Manuela Ziesche <s80485@htw-dresden.de>
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlightjs
-:imagesdir: images
+:imagesdir: images/
+
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -27,7 +28,17 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 . William
 
 === Tabellen und Textformatierung
-Tabelle einfügen?
+
+[width="15%""]
+|=======
+|*Formatierung* | *Syntax* | *Beschreibung*                   
+|*bold* | +*bold*+ | fetter Text
+|_italic_ | +_italic_+ | kursiver Text
+|`monospace`| +`monospace`+ | Text mit fester Laufweite
+| *_bold&talic_* | +*_bold&italic_*+ | Text mit kombinierter Formatierung
+| **bold**&__italic__ | +**bold**&__italic__+ | Text mit Formatierung innerhalb eines Wortes
+
+|=======
 
 === Quellcode
 .hello_world.c 
@@ -40,7 +51,7 @@ int main(int argc, char*, argv[])
 
 === Bilder
 
-Bildschirmfoto.png
+:imagesdir: Bildschirmfoto.png
 
 === Verweise
 
