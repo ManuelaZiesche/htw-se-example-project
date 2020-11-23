@@ -4,6 +4,7 @@ Manuela Ziesche <s80485@htw-dresden.de>
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlightjs
+:imagesdir: images
 // Platzhalter für weitere Dokumenten-Attribute 
 
 == Einführung
@@ -36,3 +37,12 @@ int main(int argc, char*, argv[])
     printf("Hello World!\n");
     return 0;
 }
+
+=== Bilder
+
+Bildschirmfoto.png
+
+=== Verweise
+
+HÄ?
+
