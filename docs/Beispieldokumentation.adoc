@@ -4,7 +4,8 @@ Manuela Ziesche <s80485@htw-dresden.de>
 :toc: 
 :toc-title: Inhaltsverzeichnis
 :source-highlighter: highlightjs
-:imagesdir: images/
+:imagesdir: images/ Bildschirmfoto.png
+
 
 // Platzhalter für weitere Dokumenten-Attribute 
 
@@ -51,7 +52,7 @@ int main(int argc, char*, argv[])
 
 === Bilder
 
-:imagesdir: Bildschirmfoto.png
+Bildschirmfoto.png
 
 === Verweise
 
