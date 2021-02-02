@@ -42,6 +42,12 @@ Dieses Dokument dient im Praktikum als Spielwiese für das Kennenlernen und prak
 
 |=======
 
+<<link:Risikoliste.xlsx[]>>
+
+=== Bilder
+
+image::images/Bildschirmfoto.png[]
+
 === Quellcode
 .hello_world.c 
 #includes <stdio.h>
@@ -51,11 +57,5 @@ int main(int argc, char*, argv[])
     return 0;
 }
 
-=== Bilder
 
-image: :Bildschirmfoto.png[Bildschirmfoto]
-
-=== Verweise
-
-HÄ?
 
